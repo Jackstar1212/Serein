@@ -10,7 +10,7 @@
 
 ![Version](https://img.shields.io/badge/0.7.5·Magic%20Bean-lightgrey)
 ![License](https://img.shields.io/badge/License-Proprietary-lightgrey)
-![Issues](https://img.shields.io/badge/GitHub-Issues%20%26%20docs-blue)
+[![Issues](https://img.shields.io/badge/GitHub-Issues-blue)](https://github.com/Jackstar1212/Serein/issues)
 
 ---
 
@@ -18,7 +18,10 @@
 
 This GitHub repository is the **public face for issues and selected documentation**.
 
-The Serein application is **proprietary**. Source code is not published here; development continues on a private forge. Please use Issues for bugs, ideas, and discussion.
+- Repository: [github.com/Jackstar1212/Serein](https://github.com/Jackstar1212/Serein)
+- Bug reports & ideas: [Issues](https://github.com/Jackstar1212/Serein/issues)
+
+The Serein application is **proprietary**. Source code is not published here; development continues on a private forge.
 
 Selected design docs may appear under `docs/` for transparency. They describe intent and philosophy — not a buildable tree.
 
@@ -35,12 +38,12 @@ The kernel is designed to extend. The product is delivered as an **editor** — 
 
 ## Philosophy
 
-|                 |                                                              |
-| --------------- | ------------------------------------------------------------ |
-| Content first   | The document is the stage. UI is optional, dismissible, quiet. |
-| Less is more    | Default: a blank page. Features must earn their place.       |
-| Modular         | Core is the editor; capabilities are plugins. Remove any — it still writes. |
-| Local-first     | No accounts. No telemetry. Your files never leave the machine. |
+|          |                                                                 |
+| -------- | --------------------------------------------------------------- |
+| Content first | The document is the stage. UI is optional, dismissible, quiet. |
+| Less is more  | Default: a blank page. Features must earn their place.         |
+| Modular       | Core is the editor; capabilities are plugins. Remove any — it still writes. |
+| Local-first   | No accounts. No telemetry. Your files never leave the machine. |
 | Platform-native | Windows feels like Windows. macOS like macOS. Linux like Linux. |
 
 We do not ship AI. We do not impose knowledge graphs, cloud sync, or welcome screens that delay the first keystroke. What you need, you choose. What you don't, never appears.
@@ -49,11 +52,11 @@ Full constitution: [MANIFESTO.md](MANIFESTO.md) · Vision: [docs/vision.md](docs
 
 ## Stack (at a glance)
 
-| Layer   | Choice                                    |
-| ------- | ----------------------------------------- |
-| Desktop | Tauri 2 + Rust                            |
-| UI      | React 19 + TypeScript + Vite + Tailwind 4 |
-| Editor  | ProseMirror + markdown-it                 |
+| Layer    | Choice                                    |
+| -------- | ----------------------------------------- |
+| Desktop  | Tauri 2 + Rust                            |
+| UI       | React 19 + TypeScript + Vite + Tailwind 4 |
+| Editor   | ProseMirror + markdown-it                 |
 
 Open-source components remain under their own licenses (MIT and others). Attribution lives in the app: **Help → About Serein → License**.
 
@@ -67,16 +70,17 @@ Windows is the primary surface today.
 
 ## Docs
 
-|                                  |                          |
-| -------------------------------- | ------------------------ |
-| [MANIFESTO.md](MANIFESTO.md)     | Constitution             |
-| [docs/vision.md](docs/vision.md) | Product vision           |
+|                   |                              |
+| ----------------- | ---------------------------- |
+| [MANIFESTO.md](MANIFESTO.md)     | Constitution              |
+| [docs/vision.md](docs/vision.md) | Product vision            |
+
 
 ## License
 
-**Proprietary.** See [LICENSE](LICENSE).
+**Proprietary.** All rights reserved. Source is not published in this repository.
 
-Third-party notices: in-app **About → License**.
+Third-party notices: in-app **Help → About Serein → License**.
 
 ---
 
