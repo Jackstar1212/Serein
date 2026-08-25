@@ -74,6 +74,7 @@ Windows is the primary surface today.
 | ----------------- | ---------------------------- |
 | [MANIFESTO.md](MANIFESTO.md)     | Constitution              |
 | [docs/vision.md](docs/vision.md) | Product vision            |
+| [ISSUE_TEMPLATE.md](ISSUE_TEMPLATE.md) | How to file issues  |
 
 
 ## License
