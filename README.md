@@ -71,7 +71,6 @@ Windows is the primary surface today.
 | -------------------------------- | ------------------------ |
 | [MANIFESTO.md](MANIFESTO.md)     | Constitution             |
 | [docs/vision.md](docs/vision.md) | Product vision           |
-| [docs/README.md](docs/README.md) | Doc map (when published) |
 
 ## License
 
