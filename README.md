@@ -1,14 +1,14 @@
-# Serein
+# Serein · 澄雨
 
 > **Write quietly. Think deeply.**
 
-**Serein** — 法语里「黄昏后的细雨」。不是暴雨，不是阵雨，只是润物细无声。
+**Serein**（中文名：**澄雨**）— 法语里「黄昏后的细雨」。不是暴雨，不是阵雨，只是润物细无声。
 
 它描述的不是编辑器，而是你使用它时的心境：空气清冽，无人打扰，可以静静写点东西。
 
 编辑器不该成为主角。它应当像黄昏的细雨一样安静存在——你只记得今天写得很顺，而不是「这个软件功能真多」。
 
-![Version](https://img.shields.io/badge/0.7.5·Magic%20Bean-lightgrey)
+![Version](https://img.shields.io/badge/0.7.8·Magic%20Bean-lightgrey)
 ![License](https://img.shields.io/badge/License-Proprietary-lightgrey)
 [![Issues](https://img.shields.io/badge/GitHub-Issues-blue)](https://github.com/Jackstar1212/Serein/issues)
 
@@ -62,11 +62,15 @@ Open-source components remain under their own licenses (MIT and others). Attribu
 
 ## Status
 
-**0.7.5 · Magic Bean** — Phase 1 MVP delivered; Phase 2 underway.
+**0.7.8 · Magic Bean** — Phase 1 MVP delivered; Phase 2 underway.
 
 Typora-style live syntax · four views · GFM & callouts · Mermaid / KaTeX / tables · export · multi-tab shell · themes · local drafts · privacy by default.
 
 Windows is the primary surface today.
+
+## System requirements
+
+- **Windows**: [Microsoft Edge WebView2 Runtime](https://developer.microsoft.com/microsoft-edge/webview2/) (usually preinstalled on Windows 11; some stripped or older Windows 10 installs need it manually). If missing, Serein shows a native dialog and can open that download page.
 
 ## Docs
 
