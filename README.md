@@ -8,7 +8,7 @@
 
 编辑器不该成为主角。它应当像黄昏的细雨一样安静存在——你只记得今天写得很顺，而不是「这个软件功能真多」。
 
-![Version](https://img.shields.io/badge/0.7.8·Magic%20Bean-lightgrey)
+![Version](https://img.shields.io/badge/0.8.0·Magic%20Bean-lightgrey)
 ![License](https://img.shields.io/badge/License-Proprietary-lightgrey)
 [![Issues](https://img.shields.io/badge/GitHub-Issues-blue)](https://github.com/Jackstar1212/Serein/issues)
 
@@ -62,7 +62,7 @@ Open-source components remain under their own licenses (MIT and others). Attribu
 
 ## Status
 
-**0.7.8 · Magic Bean** — Phase 1 MVP delivered; Phase 2 underway.
+**0.8.0 · Magic Bean** — Public Beta. Phase 1 MVP delivered; Phase 2 underway.
 
 Typora-style live syntax · four views · GFM & callouts · Mermaid / KaTeX / tables · export · multi-tab shell · themes · local drafts · privacy by default.
 
